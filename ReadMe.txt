@@ -1,30 +1,19 @@
-Responsive HTML5 website template for developers
-
-Theme name:
+Theme name: Oscar Zambrano
 =======================================================================
-Developer
+Web and Mobile Developer
+Open Source Lover
 
-Theme version:
+version:
 =======================================================================
-v1.5
+v1.0
 
 Release Date:
 =======================================================================
-07 Jan 2016
-
-Author: 
-=======================================================================
-Xiaoying Riley at 3rd Wave Media (http://themes.3rdwavemedia.com/)
+18 Aug 2017
 
 Contact:
 =======================================================================
-Web: http://themes.3rdwavemedia.com/
-Email: hello@3rdwavemedia.com
-Twitter: @3rdwave_themes
+Email: oskr96.oz@gmail.com
 
-License: 
-=======================================================================
-This template is free under the Creative Commons Attribution 3.0 License.
-https://creativecommons.org/licenses/by/3.0/
 
-If you'd like to use the template without the attribution, you can check out other license options via our website: http://themes.3rdwavemedia.com/
+Enamorando al mundo una línea de código a la vez.
